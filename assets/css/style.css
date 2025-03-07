@@ -388,11 +388,6 @@ body {
     justify-content: center;
 }
 
-.highlight * {
-    font-style: normal !important;
-}
-
-
 .animation-container {
     position: relative;
     display: flex;
