@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'segoebold';
+    src: url('../fonts/SegoeUIBold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'segoesemibold';
+    src: url('../fonts/SegoeUISemibold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Helveticaregular';
+    src: url('../fonts/Helvetica.ttf') format('truetype');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Helveticabold';
+    src: url('../fonts/HelveticaBold.ttf') format('truetype');
+    font-weight: bold;
+}
